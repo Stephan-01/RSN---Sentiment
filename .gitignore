@@ -1,3 +1,4 @@
+tmp
 .idea
 venv
 RechecheInSozial.iml
@@ -5,3 +6,4 @@ Sentiment.py
 AggregatedSentiment.py
 SentimentWordCloud.py
 TestAggregatedSentOnlyHighest
+*.pyc
